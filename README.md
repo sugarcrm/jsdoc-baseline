@@ -42,7 +42,7 @@ that you can use in your customizations to Baseline.
 
 2. Add the Baseline template to your Node.js project as a development dependency:
 
-        npm install --save-dev https://github.com/hegemonic/baseline/tarball/master
+        npm install --save-dev @sugarcrm/jsdoc-baseline
 
 
 ## Configuring and Using Baseline
